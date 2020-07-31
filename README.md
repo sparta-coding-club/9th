@@ -5,3 +5,5 @@
 * [김준영](https://github.com/PeterKim3219/sparta_homework.git)
 * [강세영](https://github.com/sejelly/sparta.git)
 * [박준현](https://github.com/JunHyunPark1210/sp_homework.git)
+* [김다닐](https://github.com/danilkim99/sparta.git)
+
