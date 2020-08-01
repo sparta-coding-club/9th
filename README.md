@@ -6,9 +6,8 @@
 * [강세영](https://github.com/sejelly/sparta.git)
 * [박준현](https://github.com/JunHyunPark1210/sp_homework.git)
 * [김다닐](https://github.com/danilkim99/sparta.git)
-* [이시원]()
+* [이시원](https://github.com/Siwon-Lee337/sparta.git)
 
 ## 벌금
-* 3주차 숙제 - 이시원 5천원
 * 4주차 지각 - 이시원 5천원
 
